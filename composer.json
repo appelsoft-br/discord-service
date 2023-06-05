@@ -1,0 +1,17 @@
+{
+    "name": "appelsoft/discord",
+    "type": "library",
+    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Appelsoft\\Discord\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramiro",
+            "email": "ramiro@appelsoft.com.br"
+        }
+    ]
+}
